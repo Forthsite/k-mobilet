@@ -1,0 +1,8 @@
+<svg id="visual" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <defs>
+    <linearGradient id="tailwindGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d1d5db; stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#94a3b8; stop-opacity:0.1" />
+    </linearGradient>
+  </defs>
+<rect x="0" y="0" width="960" height="540" fill="#ffffff"></rect><path d="M0 336L32 326C64 316 128 296 192 275.2C256 254.3 320 232.7 384 242C448 251.3 512 291.7 576 311.2C640 330.7 704 329.3 768 306.5C832 283.7 896 239.3 928 217.2L960 195" fill="none" stroke-linecap="round" stroke-linejoin="miter" stroke="url(#tailwindGradient)" stroke-width="99"></path></svg>
